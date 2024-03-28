@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
+
+* {
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  transition: all 0.2s linear;
+}
+
+html {
+font-size: 10px;
+}
+
+body {
+color: #0c0c0c;
+background: #f7f7f2;
+/*
+background: #faf9f9;
+*/
+}
+
+/* HEADER SECTION */
+header {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+padding: 2rem 7%;
+display: flex;
+align-items: center;
+justify-content: space-between;
+z-index: 1000;
+background-color: #ffffff;
+}
+
+header .logo {
+color: yellow; 
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 2.5rem;
+font-weight: bolder;
+}
+
+header .logo span {
+color: #356EFD; 
+}
+
+header img {
+margin-right: 1rem;
+width: 30px;
+height: auto;
+}
+
+nav a {
+/*margin: 1rem;*/
+margin: 0 0.5rem;
+font-size: 1.5rem;
+border-radius: 2rem;
+padding: 0.5rem 1.5rem;
+color: #0c0c0c;
+}
+
+nav a.active,
+nav a:hover {
+background: #86a8feff;
+}
+
+.icon i {
+cursor: pointer;
+font-size: 2rem;
+margin: 1rem;
+padding: 0.8rem;
+border-radius: 30%;
+color:  #abc4ffff;
+}
+
+
+.icon i:hover {
+color: #fff;
+background: #86a8feff;
+} 
+
+#menu {
+display: none;
+}
+
+/* PROJECT SECTION */
+#team {
+    min-height: 100vh; 
+    background-color: #ffae2c;
+    text-align: center;
+    z-index: 999;
+    margin-top: 5rem;
+    padding-top: 10rem;
+    padding-bottom: 5rem; 
+  
+  }
+  
+  .judul {
+    color: blue;
+    margin-top: 20px;  
+  }
+    .app {
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      display: flex;
+      column-gap: 15px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .team-member {
+      position: relative;
+      overflow: hidden;
+      padding-top: 5rem; 
+    }
+  
+    .team-member-overlay {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      position: absolute;
+      width: 350px; 
+      height: 100%;  
+      left: 0;
+      top: 0;
+      background-color: rgba(24, 27, 49, 0.9);
+      transition: 0.2s ease;
+      opacity: 0;
+      /*margin-top: 2rem;*/
+      border-radius: 20px; 
+      /*padding: 2rem;*/
+    }
+  
+    .team-member img {
+      object-fit: cover;
+      /*padding-top: 2rem;*/
+      width: 350px; 
+      height: 350px; 
+      border-radius: 20px; 
+    }
+  
+    .team-member .name,
+    .team-member .dob,
+    .team-member .position,
+    .team-member .sosmed {
+      transform: translateY(25px);
+      opacity: 0;
+      transition: 0.35s all ease;
+    }
+    .team-member .name {
+      font-size: 30px;
+      letter-spacing: 1px;
+      margin-bottom: 5px;
+      transition-delay: 0;
+      color: #fff;
+    }
+    .team-member .dob,
+    .team-member .position {
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 28px;
+      transition-delay: 0.1s;
+      color: #fff;
+      font-size: 15px;
+      font-weight: normal;
+    }
+    .team-member .sosmed {
+      list-style: none;
+      display: flex;
+      padding: 0;
+      gap: 14px;
+      transition-delay: 0.2s;
+    }
+    .team-member .sosmed,
+    .team-member .sosmed-item a {
+      font: 20px;
+      transition: 0.25s ease;
+      color: #fff;
+    }
+    .team-member:hover .name,
+    .team-member:hover .position,
+    .team-member:hover .dob,
+    .team-member:hover .sosmed {
+      transform: translateX(0);
+      opacity: 1;
+    }
+    .team-member:hover .team-member-overlay {
+      opacity: 1;
+    }
+    .team-member .sosmed .sosmed-item a:hover {
+      color: rgb(7, 7, 7);
+    }

@@ -210,13 +210,13 @@ text-align: center;
 margin-bottom: 2rem; 
 }
 
-.blogs-container .card h2 {
+.blogs-container .card h3 {
 font-weight: 800;
 font-size: 13px;
 color: #86a8feff;
 }
 
-.blogs-container .card h3 {
+.blogs-container .card h2 {
 font-size: 2rem;
 }
 

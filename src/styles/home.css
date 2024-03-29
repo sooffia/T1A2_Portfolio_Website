@@ -9,6 +9,7 @@
 --periwinkle-2: #c1d3feff;
 --periwinkle-3: #b6ccfeff;
 --jordy-blue: #abc4ffff;
+--champagne: #fce4c5ff;
 --vista-blue: #86a8feff;
 --brandeis-blue: #356efdff;
 
@@ -125,7 +126,7 @@ font-size: 7rem;
 }
 
 .home-text h1 span {
-color: #abc4ffff;
+color: #86a8feff;
 }
 
 .home-text h4 {
@@ -143,12 +144,12 @@ padding-bottom: 3rem;
 
 .home-text .btn {
 display: flex;
-width: 15rem;
+width: 18rem;
 justify-content: center;
 align-items: center;
 color: #fff;
 padding: 1rem;
-background-color: #abc4ffff;
+background-color: #86a8feff;
 border-radius: 1rem;
 gap: 5px;
 font-weight: bolder;
@@ -162,7 +163,7 @@ font-size: 3rem;
 
 .home-text .btn:hover {
 transform: translateY(-8px);
-background: #86a8feff;
+background: #fce4c5ff;
 }
 
 /* SKILL SECTION */
@@ -200,7 +201,7 @@ transition: transform 0.5s, background 0.5s;
 
 .s-box i {
 font-size: 5rem;
-color:  #abc4ffff;
+color:  #86a8feff;
 }
 
 .s-box h2 {
@@ -214,12 +215,12 @@ font-size: 1.2rem;
 }
 
 .s-box:hover {
-background-color: #edf2fbff;
+background-color: #f9c784ff;
 transform: scale(1.05);
 }
 
 .s-box:hover i {
-color:  #b6ccfeff;
+color:  #86a8feff;
 }
 
 /* INTEREST SECTION */
@@ -228,7 +229,7 @@ padding: 4rem 8% 8rem 8%;
 background:  #b6ccfeff;
 width: 100%;
 height: auto;
-background-color: #abc4ffff;
+background-color: #86a8feff;
 }
 
 .interest-text {
@@ -303,7 +304,7 @@ gap: 1rem;
 }
 
 .footer .box-container .f-box .logo span {
-color: #abc4ffff;
+color: #86a8feff;
 }
 
 .footer .box-container .f-box .logo img {
@@ -387,24 +388,24 @@ margin-right: 1rem;
   }
   
   .t-box {
-    padding: 20px; /* Adjust padding */
+    padding: 20px; 
   }
 
   .interest-text h2 {
-    font-size: 3rem; /* Adjust font size */
+    font-size: 3rem;
   }
 
   .block {
-    grid-gap: 2rem; /* Adjust grid gap */
+    grid-gap: 2rem;
   }
 
   .s-box {
-    padding: 20px 5px; /* Adjust padding */
-    font-size: 1.2rem; /* Adjust font size */
+    padding: 20px 5px; 
+    font-size: 1.2rem; 
   }
 
   .s-box p {
-    font-size: 1rem; /* Adjust font size */
+    font-size: 1rem;
   }
 }
 @media screen and (max-width: 968px) {

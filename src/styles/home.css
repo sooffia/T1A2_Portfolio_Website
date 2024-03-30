@@ -20,7 +20,7 @@
 --old-lace: #fff8ebff;
 --beige: #f0f5e0ff;
 --nyanza: #e4f0d0ff;
---tea-green: #c2d8b9ff;
+--tea-green: #c2d8b9ff; 
     }
 * {
   font-family: "Nunito", sans-serif;
@@ -37,10 +37,7 @@ font-size: 10px;
 
 body {
 color: #0c0c0c;
-background: #f7f7f2;
-/*
-background: #faf9f9;
-*/
+background: #f7f7f2; 
 }
 
 /* HEADER SECTION */
@@ -84,7 +81,7 @@ font-size: 2rem;
 margin: 1rem;
 padding: 0.8rem;
 border-radius: 30%;
-color:  #abc4ffff;
+color:  #86a8feff;
 }
 
 
@@ -163,7 +160,7 @@ font-size: 3rem;
 
 .home-text .btn:hover {
 transform: translateY(-8px);
-background: #fce4c5ff;
+background: #b6ccfeff;
 }
 
 /* SKILL SECTION */
@@ -216,7 +213,7 @@ font-size: 1.2rem;
 }
 
 .s-box:hover {
-background-color: #f9c784ff;
+background-color: #edf2fbff;
 transform: scale(1.05);
 }
 
@@ -245,13 +242,10 @@ font-weight: 800;
 margin-bottom: 1.5rem;
 }
 
-.interest-text h2 {
+.interest-text p {
 font-size: 3.5rem;
 }
 
-.interest-text h2 span {
-color: #faf9f9;
-}
 
 .interest-content {
 display: grid;
@@ -374,9 +368,6 @@ margin-right: 1rem;
     font-size: 1rem;
   }
 
-  .interest-text h2 {
-    font-size: 3rem;
-  }
   .home-text h1 {
     font-size: 6rem;
   }
@@ -391,9 +382,6 @@ margin-right: 1rem;
     padding: 20px; 
   }
 
-  .interest-text h2 {
-    font-size: 3rem;
-  }
 
   .block {
     grid-gap: 2rem;
@@ -448,9 +436,13 @@ margin-right: 1rem;
     margin-bottom: -3rem;
   }
  
-  .interest-text h2 {
+  .interest-text {
     font-size: 3rem;
     margin-top: 2rem;
+  }
+
+  .t-box p {
+    font-size: 1.5rem;
   }
  
   .block{
@@ -501,7 +493,7 @@ margin-right: 1rem;
   }
   
   
-  .interest-text h5 {
+  .interest-text {
     font-size: 2rem;
     font-weight: 900;
   }
@@ -566,10 +558,10 @@ margin-right: 1rem;
     padding: 10px 20px;
     font-size: 1.4rem;
   }
-  .interest-text h5 {
+  .interest-text {
     font-size: 3rem;
   }
-  .interest-text h2 {
-    font-size: 2rem;
+  .t-box p {
+    font-size: 1.5rem;
   }
 }

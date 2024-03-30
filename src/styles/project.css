@@ -1,26 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
 
-.root {
-    /* CSS HEX */
---alice-blue: #edf2fbff;
---lavender-web: #e2eafcff;
---lavender-web-2: #d7e3fcff;
---periwinkle: #ccdbfdff;
---periwinkle-2: #c1d3feff;
---periwinkle-3: #b6ccfeff;
---jordy-blue: #abc4ffff;
---vista-blue: #86a8feff;
---brandeis-blue: #356efdff;
-
-
-/* CSS HEX */
---powder-blue: #a1b5d8ff;
---french-gray: #c8d3e4ff;
---old-lace: #fff8ebff;
---beige: #f0f5e0ff;
---nyanza: #e4f0d0ff;
---tea-green: #c2d8b9ff;
-    }
 * {
   font-family: "Nunito", sans-serif;
   margin: 0;
@@ -83,9 +62,8 @@ font-size: 2rem;
 margin: 1rem;
 padding: 0.8rem;
 border-radius: 30%;
-color:  #abc4ffff;
+color:   #86a8feff;
 }
-
 
 .icon i:hover {
 color: #fff;
@@ -233,12 +211,6 @@ margin-bottom: 1.5rem;
 
   /* MEDIA QUERIES */
 
-@media screen and (max-width: 1115px) {
-
-  
-}
- 
-
 @media screen and (max-width: 968px) {
   #menu {
     display: initial;
@@ -291,10 +263,10 @@ margin-bottom: 1.5rem;
     padding-top: 5rem;
   }
   .project-title label {
-    font-size: 4vw;
+    font-size: 4rem;
   }
   .project-title p {
-    font-size: 5rem;
+    font-size: 2rem;
   }
   #project {
     margin-top: 0;

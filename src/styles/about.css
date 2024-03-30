@@ -70,7 +70,7 @@
   margin: 1rem;
   padding: 0.8rem;
   border-radius: 30%;
-  color:  #abc4ffff;
+  color:  #86a8feff;
   }
   
   
@@ -112,12 +112,13 @@
   
   .about-text h5 {
   color: #86a8feff;
-  font-size: 2.5rem;
-  font-weight: 800;
+  font-size: 2rem;
+  
   }
 .about-text h2 {
-  font-size: 5rem;
+  font-size: 4rem;
   margin-top: 0.5rem; 
+  font-weight: 800;
   }
     
   .about-text p {
@@ -129,14 +130,16 @@
   margin-top: 1rem;
   padding-right: 4rem;
   }
-  
+
+
   .about-text .btn {
   display: flex;
   width: 13rem;
   justify-content: center;
   text-align: center; 
   color: #fff;
-  padding: 2rem;
+  padding: 1rem;
+  margin-top: 3rem; 
   background-color: #86a8feff;
   border-radius: 1rem;
   gap: 5px;
@@ -239,6 +242,13 @@
     margin-top: 2rem;
   }
 
+  .about-text .btn {
+    margin-top: 2rem;
+    margin-right: -20px; 
+    font-size: 2rem;
+    padding: 1rem;
+  }
+
 }
 
 @media screen and (max-width: 868px) {
@@ -278,6 +288,7 @@
     padding: 1rem 2rem;
   }
   
+  /*
 .btn {
     margin-top: 2rem; 
     display: flex;
@@ -285,29 +296,14 @@
     align-items: center; 
     font-size: 2em; 
   }
-
-}
-
-/*
-@media screen and (max-width: 785px) {
-  .about-text h2 {
-    font-size: 3rem;
-  }
-  .about-text p {
-    font-size: 1.2rem;
-    text-align: center;
-    padding: 1rem 0rem;
-  }
-  .about-text .btn {
-    font-size: 1.2rem;
-    width: 13rem;
-  }
-  .about-text .btn i {
-    font-size: 1.5rem;
-  }
- 
-}
 */
+.about-text .btn {
+  margin-top: 2rem;
+  display: inline-flex;
+  align-items: center;
+  font-size: 2em;
+}
+}
 
 @media screen and (max-width: 580px) {
  
@@ -315,11 +311,16 @@
     width: 100%;
     margin-top: 8rem; 
   }
-  .about-text h2 {
+
+  .about-text h5 {
     font-size: 2rem;
+  }
+  .about-text h2 {
+    font-size: 3rem;
     margin-top: 3rem; 
   }
   .about-text p {
     font-size: 1.5rem;
   }
+  
 }

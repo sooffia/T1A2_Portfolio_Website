@@ -1,6 +1,6 @@
 # T1A2_Portfolio_Website
 
-##Description
+## Description
 
 ### **Purpose and Target Audience**
 
@@ -13,7 +13,7 @@ This portfolio website was crafted to showcase the skills acquired during my tim
 ### **Sscreenshot**
 
 - Homepage Wireframe 
-(./docs/screenshots/Home-phone view.png)
+(https://github.com/sooffia/T1A2_Portfolio_Website/blob/main/docs/screenshots/Home-phone%20view.png)
 (./docs/screenshots/Home-tablet view.png)
 (./docs/screenshots/Home-desktop view.png)
 

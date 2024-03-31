@@ -8,11 +8,27 @@ This portfolio website was crafted to showcase the skills acquired during my tim
 
 ### **Sitemap**
 
-[Sitemap screenshot] (./src/img/sitemap.png)
+![sitemap](./docs/sitemap.png)
 
-### **Sscreenshot**
+### **Wireframes**
 
 - Homepage Wireframe 
-<img align="center" width="100%" src="./docs/home-desktop view.png">
+![home-wireframe](./docs/screenshots/home-view.png)
+
+- About Wireframe 
+![about-wireframe](./docs/screenshots/about-view.png)
+
+- Project Wireframe 
+![project-wireframe](./docs/screenshots/project-view.png)
+
+- Blog Wireframe 
+![blog-wireframe](./docs/screenshots/blog-view.png)
+
+- Contact Wireframe 
+![contact-wireframe](./docs/screenshots/contact-view.png)
+
+### **Wireframes**
+
+- Homepage Wireframe 
 
 

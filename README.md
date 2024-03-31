@@ -2,9 +2,9 @@
 
 ## Links
 
-# [Live Website](https://fancy-donut-3b2c0d.netlify.app) 
-# [GitHub Repository](https://github.com/sooffia/T1A2_Portfolio_Website)
-# [Video Presentation]
+### [Live Website](https://fancy-donut-3b2c0d.netlify.app) 
+### [GitHub Repository](https://github.com/sooffia/T1A2_Portfolio_Website)
+### [Video Presentation]
 
 ## Description
 

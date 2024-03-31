@@ -93,10 +93,9 @@ text-align: center;
 }
 
 
-
 .blogs-text h2 {
-font-size: 5rem;
-margin-bottom: 1.5rem; 
+font-size: 5rem; 
+margin-top: 10rem; 
 }
 
 .blogs-text h2 span {
@@ -178,6 +177,13 @@ box-shadow: 1px 2px 10px 4px rgb(14 55 54 / 15%);
 
 /* MEDIA QUERIES*/ 
 
+@media screen and (max-width: 1115px)  {
+  .blogs-text h2 {
+    padding-top: 5rem; 
+    margin-top: 8rem; 
+}
+}
+
 @media screen and (max-width: 968px) {
   #menu {
     display: initial;
@@ -234,7 +240,7 @@ box-shadow: 1px 2px 10px 4px rgb(14 55 54 / 15%);
   }
 
   .blogs-text h2 {
-    font-size: 5rem;
+    font-size: 4rem;
     margin-top: 8rem; 
 }
 
@@ -242,7 +248,7 @@ box-shadow: 1px 2px 10px 4px rgb(14 55 54 / 15%);
 
 @media screen and (max-width: 580px) {
   .blogs-text h2 {
-    font-size: 4rem;
+    font-size: 3rem;
     margin-top: 7rem; 
 }
 }

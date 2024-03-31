@@ -13,7 +13,6 @@ This portfolio website was crafted to showcase the skills acquired during my tim
 ### **Sscreenshot**
 
 - Homepage Wireframe 
-(https://github.com/sooffia/T1A2_Portfolio_Website/blob/main/docs/screenshots/Home-phone%20view.png)
-(./docs/screenshots/Home-tablet view.png)
-(./docs/screenshots/Home-desktop view.png)
+<img align="center" width="100%" src="./docs/home-desktop view.png">
+
 

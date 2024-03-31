@@ -48,6 +48,9 @@ Users will view the following:
 - Blog Wireframe 
 ![blog-wireframe](./docs/wireframe/blog-view.png)
 
+- Blog Page Wireframe 
+![blog-page-wireframe](./docs/wireframe/blog-page-view.png)
+
 - Contact Wireframe 
 ![contact-wireframe](./docs/wireframe/contact-view.png)
 

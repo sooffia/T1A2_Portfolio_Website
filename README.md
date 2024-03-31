@@ -1,6 +1,10 @@
-# T1A2_Portfolio_Website
+# T1A2 - Portfolio Website
 
 ## Links
+
+# [Live Website](https://fancy-donut-3b2c0d.netlify.app) 
+# [GitHub Repository](https://github.com/sooffia/T1A2_Portfolio_Website)
+# [Video Presentation]
 
 ## Description
 
@@ -76,5 +80,4 @@ This portfolio website serves as a showcase of the skills I've honed during my t
 - Akar icons - icon library 
 - Figma - sitemap and wireframes 
 - Netlify - deployment 
-- Github - deployment 
 

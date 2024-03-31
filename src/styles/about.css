@@ -154,7 +154,7 @@
   
   .about-text .btn:hover {
   transform: translateY(8px);
-  background: #abc4ffff;
+  background: #b6ccfeff;
   }
   
   /* FOOTER SECTION */
@@ -289,15 +289,6 @@
 
   }
   
-  /*
-.btn {
-    margin-top: 2rem; 
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
-    font-size: 2em; 
-  }
-*/
 .about-text .btn {
   margin-top: 2rem;
   display: inline-flex;

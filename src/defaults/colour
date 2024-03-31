@@ -1,0 +1,9 @@
+
+
+.root {
+--baby-powder: #f7f7f2ff;
+--periwinkle-3: #b6ccfeff;
+--vista-blue: #86a8feff;
+--brandeis-blue: #356efdff;
+}
+/* Colour scheme throughout website*/ 

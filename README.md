@@ -4,7 +4,7 @@
 
 ### [Live Website](https://fancy-donut-3b2c0d.netlify.app) 
 ### [GitHub Repository](https://github.com/sooffia/T1A2_Portfolio_Website)
-### [Video Presentation]
+### [Video Presentation](https://youtu.be/Q6t_Bz5B1Kg) 
 
 ## Description
 
@@ -26,7 +26,7 @@ This portfolio website serves as a showcase of the skills I've honed during my t
 
 ![sitemap](./docs/sitemap.png)
 
-- Users will view the following: 
+Users will view the following: 
  -  Experience and skills
  -  Resume
  -  Career goals 

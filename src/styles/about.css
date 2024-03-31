@@ -284,8 +284,9 @@
   }
   .about-text p {
     font-size: 2rem;
-    text-align: center;
+    text-align: justify;
     padding: 1rem 2rem;
+
   }
   
   /*
@@ -314,13 +315,16 @@
 
   .about-text h5 {
     font-size: 2rem;
+  
   }
   .about-text h2 {
     font-size: 3rem;
     margin-top: 3rem; 
   }
+
   .about-text p {
     font-size: 1.5rem;
+    text-align: center;
   }
   
 }

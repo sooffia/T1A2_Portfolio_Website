@@ -246,7 +246,6 @@ margin-bottom: 1.5rem;
 font-size: 3.5rem;
 }
 
-
 .interest-content {
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(300px, auto));

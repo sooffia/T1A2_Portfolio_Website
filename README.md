@@ -1,16 +1,15 @@
-# T1A2 - Portfolio Website
+# Portfolio Website
 
 ## Links
 
 ### [Live Website](https://fancy-donut-3b2c0d.netlify.app) 
 ### [GitHub Repository](https://github.com/sooffia/T1A2_Portfolio_Website)
-### [Video Presentation](https://youtu.be/Q6t_Bz5B1Kg) 
 
 ## Description
 
 ### **Purpose and Target Audience**
 
-This portfolio website serves as a showcase of the skills I've honed during my time at Coder Academy, giving a glimpse into my capabilities in web development and grasp of UX principles. It's designed as a personalized platform to highlight my proficiency in web development to future employers after I complete my education. The target audience includes potential employers, recruiters, and anyone interested in delving deeper into my background and skills.
+This portfolio website serves as a showcase of the skills I've honed over the past two years, giving a glimpse into my capabilities in web development and grasp of UX principles. The target audience includes potential employers, recruiters, and anyone interested in delving deeper into my background and skills.
 
 ### **Functionality & features**
 
